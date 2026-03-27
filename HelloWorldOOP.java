@@ -8,7 +8,7 @@ public class HelloWorldOOP {
 
     //Creating a method to print the message
     public void printMessage() {
-        System.out.println("Message:" + this.message);
+        System.out.println("This module is easy:" + this.message);
     }
 
     public static void main(String[] args) {
